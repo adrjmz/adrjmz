@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Adrian Jimenez
-========================================================================================================================================
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 I am a Full Stack Software Engineer.
-------------------------------------
+========================================================================================================================================
+
 
 *   🌍  I'm based in Chicago, IL
 *   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://adrjmz.com'>Portfolio</a> (🚧 Under Construction)
