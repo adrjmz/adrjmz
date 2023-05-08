@@ -42,6 +42,6 @@ Hi there! [![](https://user-images.githubusercontent.com/18350557/176309783-0785
 Connect with me
 -------------------
 
-[![LinkedIn](https://img.shields.io/badge/jimenez--adrian-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jimenez-adrian)
+[![LinkedIn](https://img.shields.io/badge/adrjmz-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrjmz)
 [![Email](https://img.shields.io/badge/hi@adrjmz.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hi@adrjmz.com)
 [![Website](https://img.shields.io/badge/adrjmz.com-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://adrjmz.com)
